@@ -69,3 +69,4 @@ console.log(replaceString.replace("world", "there"));
 // i kemi 5 fjali me document.write
 // per te gjitha metodat e stringut te krijohen kushte te cilat duhet te shfaqen ne HTML.
 // per te gith keta shembuj te ilustrohen me ngjyra te ndryshme
+
